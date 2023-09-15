@@ -11,7 +11,7 @@ Ethics in artificial intelligence. Inspired by reflections on ethics and good te
 
 ## 💻 Tech background
 - Under construction ⚙️
-### Habilities
+### Skills
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
