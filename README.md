@@ -1,5 +1,5 @@
 # Angelia Assis
-Welcome, I'm Angélia! Starting a new career at programming, focused on AI and Machine Learning technologies.
+Welcome, I'm Angélia! Starting a new career at programming, focused on Data, AI and Machine Learning technologies.
 
 ## 🚀 What moves me?
 Ethics in artificial intelligence. Inspired by reflections on ethics and good technology:
@@ -10,7 +10,13 @@ Ethics in artificial intelligence. Inspired by reflections on ethics and good te
 
 
 ## 💻 Tech background
-- Under construction ⚙️
+- Python
+- SQL
+- relational and noSQL databases
+- Power BI
+- Azure
+- and learning...
+  
 ### Skills
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
